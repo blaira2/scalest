@@ -1,0 +1,23 @@
+estimates
+
+sub building: 110" = 2.79 meters = 688 pixels
+859 pixels = 3.48 meters
+10.083 
+
+engineering: 77" = 1.96 meters = 212 pixels
+690 pixels = 6.37 meters
+distance traveled (short): 2.04
+distance traveled (long): (3.17) 5.21
+
+chem bio: 72" = 1.83 meters = 108 pixels
+1273 pixels = 21.57 meters
+distance traveled: 8.31 meters
+
+
+pond: 86" = 2.18 meters = 245 pixels
+990 pixels = 8.81 meters
+distance traveled: 5.35 meters
+
+core: 90" = 2.29 meters = 165 pixels
+1879 pixels = 26.08 meters
+distance traveled: 30.87 meters
